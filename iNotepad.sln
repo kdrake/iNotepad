@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iNotepad", "iNotepad\iNotepad.csproj", "{B36658C2-D68B-4C0D-9C14-5E3EF6D20028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iNotepad.Test", "iNotepad.Test\iNotepad.Test.csproj", "{826826C5-2A42-484B-A6D6-4B323E361FCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutocompleteClassLibrary", "AutocompleteClassLibrary\AutocompleteClassLibrary.csproj", "{7653FD20-6C88-4449-9D6C-90AE503C380C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iNotepad.Server", "iNotepad.Server\iNotepad.Server.csproj", "{1EAAAC29-50E2-4297-9E7F-09AFCD852C92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iNotepad.Client", "iNotepad.Client\iNotepad.Client.csproj", "{897D5C85-E7B6-4777-B1B0-EE7F8E17C07C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B36658C2-D68B-4C0D-9C14-5E3EF6D20028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36658C2-D68B-4C0D-9C14-5E3EF6D20028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36658C2-D68B-4C0D-9C14-5E3EF6D20028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36658C2-D68B-4C0D-9C14-5E3EF6D20028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{826826C5-2A42-484B-A6D6-4B323E361FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826826C5-2A42-484B-A6D6-4B323E361FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826826C5-2A42-484B-A6D6-4B323E361FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826826C5-2A42-484B-A6D6-4B323E361FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7653FD20-6C88-4449-9D6C-90AE503C380C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7653FD20-6C88-4449-9D6C-90AE503C380C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7653FD20-6C88-4449-9D6C-90AE503C380C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7653FD20-6C88-4449-9D6C-90AE503C380C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EAAAC29-50E2-4297-9E7F-09AFCD852C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EAAAC29-50E2-4297-9E7F-09AFCD852C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EAAAC29-50E2-4297-9E7F-09AFCD852C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EAAAC29-50E2-4297-9E7F-09AFCD852C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{897D5C85-E7B6-4777-B1B0-EE7F8E17C07C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897D5C85-E7B6-4777-B1B0-EE7F8E17C07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897D5C85-E7B6-4777-B1B0-EE7F8E17C07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897D5C85-E7B6-4777-B1B0-EE7F8E17C07C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
